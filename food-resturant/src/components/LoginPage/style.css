@@ -1,0 +1,15 @@
+.loginBox{
+    border: 1px solid rgb(222, 220, 231);
+    width: 400px;
+    height: 200px;
+    padding: 70px;
+    background-color: rgb(222, 220, 231);
+}
+.loginHeader{
+    color: rgb(144, 144, 250) ;
+}
+.loginMainPage{
+    display:'grid';
+    place-items :'center';
+    margin-left: 400px;
+}

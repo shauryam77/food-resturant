@@ -1,0 +1,20 @@
+.addButton{
+    background-color:  #3f51b5;
+    width: 50px;
+    height: 20px;
+    border: 0px;
+    cursor: pointer;
+}
+.subButton{
+    background-color: rgb(218, 211, 211);
+    width: 50px;
+    height: 20px;
+    border: 0px;
+    cursor: pointer;
+}
+
+.buttonStyle{
+   display: flex;
+   gap: 5px;
+   margin-top: 10px;
+}

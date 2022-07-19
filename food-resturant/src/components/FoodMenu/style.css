@@ -1,0 +1,9 @@
+.menuList{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.listStyle{
+    list-style-type: none;
+}
